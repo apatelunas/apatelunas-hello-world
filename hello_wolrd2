@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/htmal; charset=utf-8"/>
+<title>my-first-website</title>
+<LINK href="styles.css" rel="stylsheet" type="text/css">
+</head>
+
+<body>
+
+<img src"https:///octdex.githib.com/images/daftpunktocat-thomas.gif"id="octucate"alt=""/>
+
+<!--Change this code here by copy and pastinf your templeter on line 15-->
+<p>Hello WOrld! I'm GithHub0ctoCatBot. This is my website!</p>
+
+</body>
+</html>
+
